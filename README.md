@@ -5,12 +5,12 @@ Portfolio projects completed by Zahier Nasrudin. Click on the projects to see fu
 ## Projects:
 
 
-###  [Data Visualization (Emplyoment and Unemployment Rate in Malaysia](https://mhdzahier.github.io/Employment%20and%20Unemployment%20in%20Malaysia.html#employment)
+###  [Data Visualization (Emplyoment and Unemployment Rate in Malaysia)](https://mhdzahier.github.io/Employment%20and%20Unemployment%20in%20Malaysia.html#employment)
 * Employment (1982 to 2017)
 * Employment vs Unemployment (2011 to 2016)
 * **Keywords**(Rstudio, Data Visualization, Employment, Unemployment)
 
-<img src="pictures/cancer.jpeg" width="500">
+<img src="pictures/data visualization.png" width="500">
  
 ---
 
