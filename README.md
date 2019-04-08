@@ -2,7 +2,7 @@
 Portfolio projects completed by Zahier Nasrudin. Click on the projects to see full analysis and code.
 
  
-## Projects:
+## Projects (R-Studio):
 
 
 ###  [Data Visualization (Emplyoment and Unemployment Rate in Malaysia)](https://mhdzahier.github.io/Employment%20and%20Unemployment%20in%20Malaysia.html#employment)
@@ -15,7 +15,6 @@ Portfolio projects completed by Zahier Nasrudin. Click on the projects to see fu
 ---
 
 
-
 ###  [Wisconsin Breast Cancer Prediction](https://htmlpreview.github.io/?https://github.com/mhdzahier/Wisconsin-Breast-Cancer-Prediction/blob/master/Wisconsin%20Breast%20Cancer%20Analysis.html)
 * Prediction using 6 Machine Learning Algorithms
 * **Keywords**(Rstudio, Machine Learning, Wisconsin Breast Cancer)
@@ -23,6 +22,7 @@ Portfolio projects completed by Zahier Nasrudin. Click on the projects to see fu
 <img src="pictures/cancer.jpeg" width="500">
  
 ---
+
 
 ###  [Stock Market Time Series Analysis](https://github.com/mhdzahier/Data-Portfolio/blob/master/Stock%20Market%20Time%20series%20analysis%20using%20R-Studio.pdf)
 * Time Series Plots of AAL,ADS, M0 and PWR stock market prices.
@@ -45,3 +45,20 @@ Portfolio projects completed by Zahier Nasrudin. Click on the projects to see fu
  
  
 ---
+
+## Projects (Python):
+
+###  [Exploratory Data Analysis](https://github.com/mhdzahier/mhdzahier.github.io/blob/master/Exploratory%20Data%20Analysis%20(Student%20Performance%20Dataset).ipynb)
+* Perform Exploratory Data Analysis on Student Performance Dataset
+* **Keywords**(Python, EDA)
+
+<img src="pictures/bootstrap.png" width="500">
+ 
+ 
+---
+
+
+
+
+
+
