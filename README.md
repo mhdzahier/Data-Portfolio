@@ -33,7 +33,7 @@ Portfolio data analytics projects completed by Zahier Nasrudin using R-Studio an
  
 ---
 
-###  [Bootstraping and Simulation using German Credit Risk Dataset](https://drive.google.com/file/d/1kkJ8qY2GmhNr41hv20GLA2MDqE5MtJ-G/view?usp=sharing)
+###  [Bootstrapping and Simulation using German Credit Risk Dataset](https://drive.google.com/file/d/1kkJ8qY2GmhNr41hv20GLA2MDqE5MtJ-G/view?usp=sharing)
 * Fit a Logistic Regression Model
 * Perform bootstrap on the coefficients of logistic regression model
 * Construct 95% Confidence Intervals for the parameters of bootstrap model
