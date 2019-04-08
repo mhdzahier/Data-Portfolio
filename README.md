@@ -26,7 +26,7 @@ Portfolio projects completed by Zahier Nasrudin. Click on the projects to see fu
 * Construct 95% Confidence Intervals for the parameters of bootstrap model
 * Perform simulation of coefficients
 * Calculate the predictive probabilities of 1000 simulations
-* **R-Studio**
+* **Keywords**(R-Studio, Bootstrap, Simulation)
 <img src="pictures/bootstrap.png" width="500">
  
  
