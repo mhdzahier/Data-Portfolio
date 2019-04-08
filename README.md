@@ -5,7 +5,7 @@ Portfolio projects completed by Zahier Nasrudin using R-Studio and Python. Click
 ## Projects (R-Studio):
 
 
-###  [Data Visualization (Emplyoment and Unemployment Rate in Malaysia)](https://mhdzahier.github.io/Employment%20and%20Unemployment%20in%20Malaysia.html#employment)
+###  [Data Visualization (Employment and Unemployment Rate in Malaysia)](https://mhdzahier.github.io/Employment%20and%20Unemployment%20in%20Malaysia.html#employment)
 * Employment (1982 to 2017)
 * Employment vs Unemployment (2011 to 2016)
 * **Keywords**(Rstudio, Data Visualization, Employment, Unemployment)
@@ -53,7 +53,7 @@ Portfolio projects completed by Zahier Nasrudin using R-Studio and Python. Click
 * Implement Logistic Regression and Naive Bayes
 * **Keywords**(Python, Text classification, Machine Learning)
 
-<img src="pictures/Correlations.png" width="500">
+<img src="pictures/Text classification.png" width="500">
  
  
 ---
