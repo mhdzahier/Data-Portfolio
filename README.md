@@ -48,6 +48,14 @@ Portfolio data analytics projects completed by Zahier Nasrudin using R-Studio an
 
 ## Projects (Python):
 
+###  [House Price Prediction](https://github.com/mhdzahier/mhdzahier.github.io/blob/master/House%20Price%20Prediction.ipynb)
+* Implement Machine Learning Models
+* **Keywords**(Python, Machine Learning)
+
+<img src="pictures/house price.png" width="500">
+ 
+ 
+---
 
 ###  [Text Classification using Machine Learning Algorithms](https://github.com/mhdzahier/mhdzahier.github.io/blob/master/Text%20classification.ipynb)
 * Implement Logistic Regression and Naive Bayes
