@@ -4,7 +4,7 @@ Portfolio data analytics projects completed by Zahier Nasrudin using R-Studio an
  
 ## Projects (R-Studio):
 
-###  [Game of Thrones!](https://mhdzahier.github.io/Game%20of%20Thrones.png)
+###  [Game of Thrones!](https://github.com/mhdzahier/mhdzahier.github.io/blob/master/pictures/Game%20of%20Thrones.png)
 * 6/7/2019 to 14/7/2019
 * Death count
 * Data Visualization
